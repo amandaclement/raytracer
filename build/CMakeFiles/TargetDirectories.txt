@@ -1,0 +1,3 @@
+/Users/AmandaClement/COMP371_dockerimage/COMP371_all/COMP371_RaytracerBase/code/build/CMakeFiles/raytracer.dir
+/Users/AmandaClement/COMP371_dockerimage/COMP371_all/COMP371_RaytracerBase/code/build/CMakeFiles/edit_cache.dir
+/Users/AmandaClement/COMP371_dockerimage/COMP371_all/COMP371_RaytracerBase/code/build/CMakeFiles/rebuild_cache.dir
